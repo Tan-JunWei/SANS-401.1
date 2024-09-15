@@ -1,0 +1,12 @@
+- Data is not just stored, it is accessed across the network. Data is processed across a network when applications and systems access it.
+	- Communication flows means understanding:
+		- Who accesses data?
+		- When data is accessed?
+		- How much data is accessed?
+	- This will lead to the development of baselines:
+		- Knowing 'normal' allows 'abnormal' to stand out
+		- Data should only be accessed in the manner we expect
+		- Anything different from what we expect is not only abnormal, but also likely adversarial
+		  
+- It is never a 'one and done'. Continual updating is necessary
+	- The network is never static - it is dynamic and everchanging

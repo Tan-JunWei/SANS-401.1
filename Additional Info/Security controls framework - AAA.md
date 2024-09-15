@@ -1,0 +1,6 @@
+- Authentication
+    - Create access lists and identification mechanisms to allow approved persons through barriers
+- Authorization
+    - Create barriers around a resource so that access can be controlled through defined entry and exit points
+- Accounting
+    - Keep a record of when entry/exit points are used and detect security breaches
