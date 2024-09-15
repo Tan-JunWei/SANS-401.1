@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS 401 Module 2 - Defensible Network Architecture/Networks Under Attack/Attacks against Routers.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Routers.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS 401 Module 2 - Defensible Network Architecture/Introduction.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS 401 Module 2 - Defensible Network Architecture/Conceptual Design.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Conceptual Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS 401 Module 2 - Defensible Network Architecture/Introduction.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS 401 Module 2 - Defensible Network Architecture/Introduction.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS 401 Module 2 - Defensible Network Architecture/Introduction.md"
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md"
               }
             }
           }
@@ -184,12 +184,13 @@
   },
   "active": "b79ccc56557f9dee",
   "lastOpenFiles": [
-    "SANS 401 Module 2 - Defensible Network Architecture/Networks Under Attack/Networks under attack.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Networks Under Attack/Threat Actors.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Networks Under Attack/Threat Agents.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Networks Under Attack/Threat Enumeration.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Agents.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Networks under attack.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Actors.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Enumeration.md",
     "HTB Web Fuzzing/FFUF.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Networks Under Attack/Attacks against Routers.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Routers.md",
     "Pen test/Pen test/Pen Test/Hackthebox/Starting Point/Tier 0/Fawn.md",
     "Pen test/Pen test/Pen Test/Hackthebox/Starting Point/Tier 0/Meow.md",
     "Pen test/Pen test/Pen Test/Hackthebox/Starting Point/Tier 0/Redeemer.md",
@@ -197,25 +198,24 @@
     "Pen test/Pen test/eJPT/03 Host & Network Penetration Testing/03 The Metasploit Framework/02 Enumeration/02 Port Scanning With Auxiliary Modules.md",
     "Untitled",
     "HTB Web Fuzzing",
-    "SANS 401 Module 2 - Defensible Network Architecture/Physical Design.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Physical Design.md",
     "Untitled.canvas",
-    "SANS 401 Module 2 - Defensible Network Architecture/Introduction.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Conceptual Design.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Threat Intelligence.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Understanding Communication Flow.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Virtual Local Area Network (VLAN).md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Systems Hardening.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Logical Network Diagram Example.png",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Conceptual Design.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Threat Intelligence.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Communication Flow.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Virtual Local Area Network (VLAN).md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Systems Hardening.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Logical Network Diagram Example.png",
     "Additional Info/Security controls framework - AAA.md",
     "Additional Info/Switch vs Router.md",
     "Additional Info/Biometric security.md",
     "Additional Info",
-    "SANS 401 Module 2 - Defensible Network Architecture/Networks Under Attack/Attacks against Switches.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Networks Under Attack",
-    "SANS 401 Module 2 - Defensible Network Architecture/Logical Design.md",
-    "SANS 401 Module 2 - Defensible Network Architecture/Know Thy Systems.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Switches.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Logical Design.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Know Thy Systems.md",
     "2024-08-02.md",
     "TTP.md",
-    "SANS 401 Module 2 - Defensible Network Architecture"
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure"
   ]
 }
