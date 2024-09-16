@@ -38,8 +38,19 @@
 		- The attacker, on behalf of the victim, will forward the traffic to the actual default router, resulting in a completed communication (and a successful MiTM position). There are better ways for an attacker to achieve a MiTM, but this attack demonstrates the risk of DHCP manipulation.
 		  
 	- STP Manipulation
+		- STP (Spanning Tree Protocol) manipulation attacks are related, in part, to the CDP attack described above.
+		- As part of the CDP conversation, it was highlighted that switches need to understand how they are connected to one another themselves. This is important because switch loops may occur if the switches are not connected properly, causing **traffic to loop in a circle**.
+		- One of the responsibilities of STP is to ensure that switch loops do not occur (prevention of switch loops).
+		- STP, like CDP, is plaintext (readable and observable). An attacker, with sufficient access to the network, might be able to impersonate STP communication and manipulate it to their advantage. If successful, the result will be switch reconfiguration.
+		- Such manipulation could be performed in an effort to cause a switch loop, resulting in a DoS, or to intentionally reconfigure switches to facilitate a MiTM capability.
+		- STP can be configured to help prevent unintentional manipulation, and just like CDP, STP should be available only to management interfaces (not the network overall).
+		  
 	- VLAN Hopping
-
+		- [[Virtual Local Area Network (VLAN)|VLAN]] (Virtual Local Area Network) is a concept of network segmentation.
+		- Switches connect devices together, to form a network, in the spirit of all devices being equally accessible for device-to-device communication. This, however, assumes that our devices are of all of the same trust level, which they are not.
+		- A model of intrinsic trust will allow an adversary to more easily pivot across the devices of a network.
+		- Network segmentation is a method of enforcing the concept that devices should not be allowed to communicate with one another simply by the nature of being connected. Network segmentation, such as in the form of a VLAN, makes the life of an adversary initially more difficult and is why an adversary may attempt a VLAN hopping attack.
+		- In the formation of a VLAN hopping attack, an attacker will manipulate the characteristics of network packets in a such a way that a switch will allow an attacker to 'hop' from one VLAN to another in a way that would otherwise be prohibited.
 See also:
 [[Switch vs Router]]
 [[Attacks against Routers]]
