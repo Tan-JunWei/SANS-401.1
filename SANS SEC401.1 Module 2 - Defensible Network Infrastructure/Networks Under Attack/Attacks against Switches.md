@@ -30,6 +30,13 @@
 		- This allows for the sniffing of ALL network communication to be performed in an almost trivial fashion
 		  
 	- DHCP Manipulation
+		- [[DHCP]] is commonly used by computing devices to obtain their network configuration, which will include items such as their IP address, the subnet mask for the network segment, the IP address of the default gateway (default router), and maybe even the IP address of a server that will provide the OS for the computing device.
+		- So, the manipulation of this valuable configuration information could be of high value to an attacker. 
+		- When the attacker is in a sufficient position on a victim network, they can monitor for DHCP requests that are being sent from a computing device. If the attacker operates fast enough, he can supply an answer of the DHCP request to the device **before the legitimate DHCP server does**.
+		- In doing so, the attacker has gained control of the network configuration information that will be used by the computing device. 
+		- The attacker provides network configuration information to deceive the victim computer, perhaps indicating that the attacker's IP address is the IP address of the default router of the network. In doing so, the victim now sends all non-local network traffic to the IP address of the 'default router', which happens to be the IP address of the attacker's machine on the network (the machine that the attacker has compromised). 
+		- The attacker, on behalf of the victim, will forward the traffic to the actual default router, resulting in a completed communication (and a successful MiTM position). There are better ways for an attacker to achieve a MiTM, but this attack demonstrates the risk of DHCP manipulation.
+		  
 	- STP Manipulation
 	- VLAN Hopping
 
