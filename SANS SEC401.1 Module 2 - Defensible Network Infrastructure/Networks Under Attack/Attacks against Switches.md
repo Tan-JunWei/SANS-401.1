@@ -15,7 +15,7 @@
 >
 >>[!failure] Disclosure of discovery information
 >>By default in most organizations, discovery protocol traffic is more than likely being broadcast across the entirety of the network although it shouldn't be. By restricting the broadcast to management interfaces of the switches we can limit the disclosure of this vital Information in a way that makes an attackers job more difficult.
-			
+
 >[!abstract]- MAC Flooding
 >In a MAC flooding attack the attacker floods the MAC address table of a switch with fake non-existent MAC addresses. After a computer is connected to a switch (via a network cable), the switch records the MAC address of the computer's interface that is being connected. MAC addresses therefore indicate the source and/or destination of local network communication
 >
@@ -31,7 +31,7 @@
 >> - The switch will reach a point where it no longer has enough memory to record each new MAC address that connects. The switch will start to enter a error condition, and as part of said error conditioning, the switch (in order to continue operating as opposed to shutting down) might downgrade itself to the concept of a network hub
 >> - Hubs, the precursor devices to switches, have a fundamental security issue - a lack of awareness of which MAC addresses is connected to which physical port of the hub itself, leading to a broadcasting of all traffic to each and every connected computer (each computer discards traffic not actually meant for it).
 >> - This allows for the sniffing of ALL network communication to be performed in an almost trivial fashion.
-		
+
 >[!abstract]- DHCP Manipulation
 >[[DHCP|DHCP (Dynamic Host Configuration protocol)]] is commonly used by computing devices to obtain their network configuration, which will include items such as their IP address, the subnet mask for the network segment, the IP address of the default gateway (default router), and maybe even the IP address of a server that will provide the OS for the computing device.
 >
@@ -52,7 +52,7 @@
 >STP, like CDP, is plaintext (readable and observable). An attacker, with sufficient access to the network, might be able to impersonate STP communication and manipulate it to their advantage. If successful, the result will be switch reconfiguration.
 >- Such manipulation could be performed in an effort to cause a switch loop, resulting in a DoS, or to intentionally reconfigure switches to facilitate a MiTM capability.
 >- STP can be configured to help prevent unintentional manipulation, and just like CDP, STP should be available only to management interfaces (not the network overall).
-		
+
 >[!abstract]- VLAN Hopping
 >[[Virtual Local Area Network (VLAN)|VLAN]] (Virtual Local Area Network) is a concept of network segmentation.
 >
@@ -66,6 +66,7 @@
 >>In a properly segmented network, devices within one VLAN should not be able to communicate with devices in another VLAN unless explicitly allowed by network policy, typically through a router or firewall.
 >
 >In the formation of a VLAN hopping attack, an attacker will manipulate the characteristics of network packets in a such a way that a switch will allow an attacker to 'hop' from one VLAN to another in a way that would otherwise be prohibited.
+
 
 See also:
 [[Switch vs Router]]

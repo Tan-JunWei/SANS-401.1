@@ -16,7 +16,7 @@
 >[!abstract]- Packet Sniffing 
 >- Refers to the capture (and analysis) of the traffic of a network 
 >- Confidentiality and integrity can be heavily impacted by sniffing of network traffic
-		
+
 >[!abstract]- Packet Misrouting and Routing Table Poisoning
 >Packet Misrouting and Routing Table Poisoning attacks both fit into the category of integrity-based attacks. In either attack, victim routers are convinced to re-configure how and where they will route their traffic.
 >		

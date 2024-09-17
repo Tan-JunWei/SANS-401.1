@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Additional Info/DHCP.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Routers.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Threat Intelligence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Routers.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Routers.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Routers.md"
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Enumeration.md"
               }
             }
           }
@@ -170,19 +170,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b79ccc56557f9dee",
+  "active": "7230679898ea4939",
   "lastOpenFiles": [
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Switches.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Networks under attack.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Agents.md",
     "Additional Info/DHCP.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Threat Intelligence.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Enumeration.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Actors.md",
+    "Additional Info/Threat Actors.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Networks under attack.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Routers.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Switches.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Virtual Local Area Network (VLAN).md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md",
     "README.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Agents.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Actors.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Enumeration.md",
     "HTB Web Fuzzing/FFUF.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Routers.md",
     "Pen test/Pen test/Pen Test/Hackthebox/Starting Point/Tier 0/Fawn.md",
     "Pen test/Pen test/Pen Test/Hackthebox/Starting Point/Tier 0/Meow.md",
     "Pen test/Pen test/Pen Test/Hackthebox/Starting Point/Tier 0/Redeemer.md",
@@ -193,7 +195,6 @@
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Physical Design.md",
     "Untitled.canvas",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Conceptual Design.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Threat Intelligence.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Communication Flow.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Systems Hardening.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Logical Network Diagram Example.png",
@@ -203,7 +204,6 @@
     "Additional Info",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Logical Design.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Know Thy Systems.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure"
   ]
 }
