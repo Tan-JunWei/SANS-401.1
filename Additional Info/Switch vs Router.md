@@ -1,4 +1,6 @@
 - **Switches** primarily operate at the data link layer (Layer 2) and forward data packets within a single local area network (LAN) based on MAC addresses. They create a network by connecting multiple devices within the same LAN and efficiently manage traffic by forwarding packets only to the intended destination device.
+
 - **Routers**, on the other hand, operate at the network layer (Layer 3) and are responsible for routing data packets between different networks based on IP addresses. They determine the best path for data to travel across different networks, including LANs, and facilitate communication between devices on separate networks.
 
-While both switches and routers forward data packets based on source and destination addresses, their main functions extend beyond simple forwarding. Switches focus on local network connectivity and MAC address-based forwarding within a single LAN, while routers handle the broader task of inter-network communication, routing data between different networks based on IP addresses.
+>[!info] Conclusion (tldr)
+>While both switches and routers forward data packets based on source and destination addresses, their main functions extend beyond simple forwarding. Switches focus on local network connectivity and MAC address-based forwarding within a single LAN, while routers handle the broader task of inter-network communication, routing data between different networks based on IP addresses.

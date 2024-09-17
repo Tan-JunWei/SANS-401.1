@@ -3,7 +3,13 @@
 >
 >How DHCP works:
 >
->DHCPDiscover: The host looks for a DHCP server
->DHCPOffer: The DHCP server offers an address
->DHCPRequest: The host requests to lease the address
->DHCPACK: The DHCP server sends the IP address to the host
+>DHCP *D*iscover: The host looks for a DHCP server
+>DHCP *O*ffer: The DHCP server offers an address
+>DHCP *R*equest: The host requests to lease the address
+>DHC *P*ACK: The DHCP server sends the IP address to the host
+>
+>Memory shortcut: **DORA**
+>
+>![[DHCP 4-way Handshake.png]]
+
+For more information about the DHCP 4-way handshake, refer to https://medium.com/@sajerestan/demystifying-the-dhcp-four-way-handshake-how-your-devices-connect-to-the-internet-a52f0c553a53

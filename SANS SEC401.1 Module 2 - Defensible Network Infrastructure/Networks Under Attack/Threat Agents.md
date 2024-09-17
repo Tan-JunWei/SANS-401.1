@@ -1,6 +1,6 @@
 >[!tip] What are threat agents?
 >An individual, organization or group that is capable and motivated to carry out an attack of one sort or another. Different attacker groups target and attack different types of systems in different ways for different reasons (**motivation and intent**).
-  
+
 #### Key questions
 - How active is each threat agent?
 - How might a successful attack serve a particular threat agent's goals?
