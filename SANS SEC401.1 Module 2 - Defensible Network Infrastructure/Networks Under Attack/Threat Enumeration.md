@@ -11,6 +11,7 @@ Defending against an adversary means the same in reverse
 - effective cybersecurity defense requires a deep understanding of offensive techniques
 - by thinking like an adversary, defenders can anticipate potential attacks and build more robust security measures to protect their systems
 
+#### TTP
 Threat enumeration is a part of understanding the TTP (Tactics, Technique, Procedures)
 - tactics: high-level description of a method an adversary might use to formulate an attack (**_what_**)
 - techniques: more detailed description of a specific instance of the tactic being attempted (**_how_**)
