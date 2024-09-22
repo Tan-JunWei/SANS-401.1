@@ -12,10 +12,14 @@ Basically, the network is **equally important** to the **organisation** and the 
 - [[Knowing Where Your Valuable Data is Located]]
 - [[Understanding Communication Flow]] 
 
+##### Networks under Attack
 - [[Networks under attack]] 
 - [[Threat Enumeration]]
 - [[Threat Agents]]
 - [[Attacks against Routers]]
 - [[Attacks against Switches]]
+
+##### Network Design
+- [[Physical and Logical Topologies]]
 
 - [[Virtual Local Area Network (VLAN)]]
