@@ -21,5 +21,6 @@ Basically, the network is **equally important** to the **organisation** and the 
 
 ##### Network Design
 - [[Physical and Logical Topologies]]
+- [[Approaches to Network Design]]
 
 - [[Virtual Local Area Network (VLAN)]]
