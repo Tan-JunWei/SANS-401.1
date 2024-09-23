@@ -23,3 +23,6 @@ Basically, the network is **equally important** to the **organisation** and the 
 - [[Physical and Logical Topologies]]
 - [[Approaches to Network Design]]
 - [[Virtual Local Area Network (VLAN)]]
+- [[Network Security Feature - IEEE 802.1X]]
+
+[[Benefits of Network Architecture Understanding]]

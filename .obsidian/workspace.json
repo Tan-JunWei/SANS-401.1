@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Approaches to Network Design.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Approaches to Network Design.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Approaches to Network Design.md",
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Approaches to Network Design.md"
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md"
               }
             }
           }
@@ -161,14 +161,16 @@
   },
   "active": "64f5f87979d83a9b",
   "lastOpenFiles": [
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Physical Design.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Virtual Local Area Network (VLAN).md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Approaches to Network Design.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Network Security Feature - IEEE 802.1X.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Principle of Least Privilege.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Virtual Local Area Network (VLAN).md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Understanding Communication Flow.md",
+    "Additional Info/IEEE 802.1X.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Introduction.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Approaches to Network Design.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Physical Design.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Physical and Logical Topologies.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Logical Design.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Understanding Communication Flow.md",
     "Additional Info/How Physical Mediums Determine Connectivity.md",
     "Assets/Star Topology.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design",
@@ -195,8 +197,6 @@
     "Pasted image 20240917220919.png",
     "Pasted image 20240917220910.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Agents.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Threat Actors.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Attacks against Routers.md",
     "HTB Web Fuzzing",
     "Untitled.canvas",
     "Additional Info",
