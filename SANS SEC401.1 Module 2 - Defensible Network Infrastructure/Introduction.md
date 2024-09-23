@@ -25,4 +25,5 @@ Basically, the network is **equally important** to the **organisation** and the 
 - [[Virtual Local Area Network (VLAN)]]
 - [[Network Security Feature - IEEE 802.1X]]
 
-[[Benefits of Network Architecture Understanding]]
+##### Summary
+- [[Benefits of Network Architecture Understanding]]
