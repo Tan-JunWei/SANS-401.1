@@ -10,9 +10,9 @@ Upon the connection of a device to a network, a device is granted the least amou
 
 2. The request is passed through an authenticator (e.g. network switch), to a back-end authentication server. If the authentication is deemed legitimate, the authenticator notifies the device requesting access, and the switch port is opened to a level of access deemed appropriate (configured by the switch administrator). 
 
-The passing of the authentication request and the subsequent response to the request is conducted between the supplicant software and the authenticator, via the use of EAPOL (Extensible Authentication Protocol over LAN) messages.
+The passing of the authentication request and the subsequent response to the request is conducted between the supplicant software and the authenticator, via the use of [[IEEE 802.1X#EAPoL|EAPoL]] (Extensible Authentication Protocol over LAN) messages.
 
-{ _More information about [[IEEE 802.1X]]_ authentication process}
+{_More information about [[IEEE 802.1X]]_ authentication process}
 
 Due to 802.1X being extensible, support for various factors of authentication can be made possible. The authentication method could be as simple as a password or as cryptographically secure as authentication leveraging certificates. They can also be combined together (multi-factor access)
 
