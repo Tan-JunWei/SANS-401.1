@@ -39,3 +39,4 @@ The largest benefit to segmentation is that with segmentation in place, life for
 >
 >The lack of segmentation makes it easy for an attacker to pivot. If any computing device can communicate with any other computing device on the network, then so can the attacker once they have compromised the computing device. 
 
+See also: [[Networks under attack]], [[Virtual Local Area Network (VLAN)]]

@@ -2,7 +2,7 @@ The logical design represents the logical functions in the system.
 
 >[!abstract]+ Logical Design
 >Logical design:
->- Puts the conceptual design on paper
+>- Puts the conceptual design **on paper**
 >	- After understanding why we have a network ([[Conceptual Design]]), the logical design is the facilitation of placing that understanding onto paper via the description provided through a network diagram.
 >	- A network diagram typically includes:
 >		- icons

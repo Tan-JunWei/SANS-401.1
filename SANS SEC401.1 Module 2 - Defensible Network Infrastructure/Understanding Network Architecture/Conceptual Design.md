@@ -1,4 +1,4 @@
-We need to understand Conceptual Design, [[Logical Design]] and [[Physical Design]] to effectively understand network architecture. These 3 models are arrange in **decreasing levels of abstraction**, from left to right.
+We need to understand Conceptual Design, [[Logical Design]] and [[Physical Design]] to effectively understand network architecture. These 3 models are arranged in **decreasing levels of abstraction**, from left to right.
 
 Conceptual design refers to the **high-level** network overview (abstraction).
 
@@ -9,7 +9,7 @@ Conceptual design refers to the **high-level** network overview (abstraction).
 >
 >- Will consider OS platforms, server services, critical core operational functions, etc.
 >
->- Helps to understand the overall purpose of a network (WHY we have it and WHAT it helps us to achieve)
+>- Helps to understand the overall purpose of a network (**WHY** we have it and **WHAT** it helps us to achieve)
 >	- Related: **_[[Know Thy Systems]] (Network)_**
 >	- Not about how the systems are configured, but rather what systems we need to achieve our objectives (understanding the **interdependency** between those systems, and how end-users interact with those systems)
 >	  
@@ -17,6 +17,7 @@ Conceptual design refers to the **high-level** network overview (abstraction).
 >		- criticality of **assets**
 >		- criticality of **processes**
 >		- criticality of **individuals**
+>		  
 >	- Some organizations take additional data into consideration for this design phase such as regulatory, legal, security, and safety concerns
 >   - These additional considerations aren't necessary at this phase of understanding they are, however, mentioned for completeness
 >      

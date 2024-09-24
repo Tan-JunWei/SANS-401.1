@@ -39,5 +39,7 @@ How those 1s and 0s are re-represented as pulses of lights, electrical signals, 
 
 Understanding how communication occur and whether those communications are physical or logical is imperative to determining if there are risks to those communication.
 
+
+See also: [[Physical Design]], [[Logical Design]] [[Conceptual Design]]
 #### References
 - GeeksforGeeks. (2024d, May 29). _Advantages and Disadvantages of Star Topology_. GeeksforGeeks. https://www.geeksforgeeks.org/advantages-and-disadvantages-of-star-topology/

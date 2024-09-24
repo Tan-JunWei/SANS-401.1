@@ -35,3 +35,5 @@ The easiest way to conceptualize a VLAN is to imagine that certain groupings of 
 >While VLANs can be used to implement a security segmentation, they are often created by IT and network administrators for ease of management instead. For example, a VLAN may be created to represent the servers. 
 >
 >Each VLAN is technically its own network and as such, will have its own range of IP addresses, thus separating devices this way does allow for easier management (a certain range of IP address represents a certain group of devices). 
+
+See also: [[Approaches to Network Design#Why network segmentation?|Understanding the "why" behind network segmentation]]

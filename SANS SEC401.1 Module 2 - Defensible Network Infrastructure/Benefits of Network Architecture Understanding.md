@@ -15,3 +15,6 @@
 >##### 4. Timely detection of an attacker presence (Timely detection = timely response = reduction of damage)
 >Understanding what **'normal'** looks like for an environment will surely cause the **'abnormal'** to stand out. The moment we notice abnormal is the moment we can move into **incident response**, which will then be the moment we start to **reduce the total amount of damage** that could be caused by the incident.
 
+Recall: [[Know Thy Systems]]
+
+"Know Thy Systems" is built upon the idea that we can only secure what we know we own (or have). A deep understanding of different networks components and assets within our environment will allow us to understand how we should secure our network, starting with prioritizing which assets we should dedicate more attention and resources towards, based on metrics like **criticality**.
