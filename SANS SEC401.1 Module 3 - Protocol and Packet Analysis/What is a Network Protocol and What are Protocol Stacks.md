@@ -20,4 +20,4 @@ Protocols are often described as part of a protocol stack, where **each layer of
 >
 >Protocol stacks are a set of network protocol layers that work together to implement communications.
 >
->The OSI (Open Systems Interconnection) Protocol Stack is an example of a protocol stack. 
+>The [[ISO OSI Protocol Stack|OSI]] (Open Systems Interconnection) Protocol Stack is an example of a protocol stack. 
