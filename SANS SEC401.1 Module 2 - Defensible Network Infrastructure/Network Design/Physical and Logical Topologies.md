@@ -4,7 +4,7 @@
 >
 >In this case, topologies define the inter-relationship of **network-based components,** and can be defined as **physical or logical**. 
 >
->>[!tip] Recall: [[Introduction#Understanding Network Architecture|Network Architecture]]
+>>[!tip] Recall: [[SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents#Understanding Network Architecture|Network Architecture]]
 >>
 >>The concept of understanding **network infrastructure** would be described via the use of a **network diagram**, which shows the **topology** of the network.
 
