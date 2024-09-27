@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6decb94952744a3b",
+  "active": "2e841aa8c116eef5",
   "lastOpenFiles": [
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
+    "Assets/OSI 7 Layers stack-layer to stack-layer communication.png",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
     "Assets/OSI Model Diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol and What are Protocol Stacks.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocol Stacks.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol.md",
@@ -176,7 +178,6 @@
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Know Thy Systems.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Physical Design.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Logical Design.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Understanding Communication Flow.md",
     "Assets/Star Topology.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design",
     "Assets/Logical Network Diagram Example.png",
@@ -186,7 +187,6 @@
     "Assets",
     "Pasted image 20240917220928.png",
     "Pasted image 20240917220919.png",
-    "Pasted image 20240917220910.png",
     "HTB Web Fuzzing",
     "Untitled.canvas",
     "Additional Info",

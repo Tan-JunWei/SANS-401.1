@@ -44,6 +44,17 @@ The data link layer **connects the physical part of the network** (cables and el
 The physical layer **handles transmission (information in the form of bits) across the physical media**. This includes examples such as electrical pulses on copper wires, modulation of radio waves, modulation of light pulses in fiber optics, connection specifications between interface hardware and network cabling, and voltage regulation. 
 
 
+>[!tip] Mnemonic to remember the layers of the OSI model
+>
+>**"Please Do Not Throw Sausage Pizza Away"**
+>
+>P : **P**hysical
+>D : **D**ata Link
+>N : **N**etwork
+>T : **T**ransport
+>S : **S**ession
+>P: **P**resentation
+>A : **A**pplication
 
 #### References
 - Threat, I. (2023, December 21). _What is OSI Model | 7 Layers Explained | Imperva_. Learning Center. https://www.imperva.com/learn/application-security/osi-model/
