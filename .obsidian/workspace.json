@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/OSI vs TCP IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/OSI vs TCP IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/OSI vs TCP IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/OSI vs TCP IP.md"
               }
             }
           }
@@ -146,12 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e841aa8c116eef5",
+  "active": "6decb94952744a3b",
   "lastOpenFiles": [
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
-    "Assets/OSI 7 Layers stack-layer to stack-layer communication.png",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
+    "Assets/OSI vs TCP IP.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/OSI vs TCP IP.md",
+    "OSI vs TCP/IP.md",
+    "OSI vs TCP",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
+    "Assets/OSI 7 Layers stack-layer to stack-layer communication.png",
     "Assets/OSI Model Diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol and What are Protocol Stacks.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
@@ -176,8 +180,6 @@
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Conceptual Design.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Networks under attack.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Know Thy Systems.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Physical Design.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Logical Design.md",
     "Assets/Star Topology.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design",
     "Assets/Logical Network Diagram Example.png",
