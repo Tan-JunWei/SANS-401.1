@@ -29,4 +29,6 @@ The OSI model is more granular as it was designed with the mindset of supporting
 
 To summarize, no matter which model is used, it must perform all the functions required to take a piece of application data, place it into a packet, put that packet through the network connection, and deliver it to its destination.
 
+For more information, check out: [[OSI vs TCP IP - Practicality]]
+
 

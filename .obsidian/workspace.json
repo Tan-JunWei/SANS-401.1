@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/OSI vs TCP IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9465b88c4c955c09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Additional Info/OSI vs TCP IP - Practicality.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Info/OSI vs TCP IP - Practicality.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Info/OSI vs TCP IP - Practicality.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Additional Info/OSI vs TCP IP - Practicality.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md"
               }
             }
           }
@@ -159,23 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9465b88c4c955c09",
+  "active": "6decb94952744a3b",
   "lastOpenFiles": [
+    "Assets/TCP IP headers diagram.png",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
+    "Assets/TCP IP model headers diagram.png",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/OSI vs TCP IP.md",
+    "Additional Info/IEEE 802.1X.md",
     "Additional Info/OSI vs TCP IP - Practicality.md",
     "Assets/OSI vs TCP IP.png",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
     "OSI vs TCP/IP.md",
     "OSI vs TCP",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
     "Assets/OSI 7 Layers stack-layer to stack-layer communication.png",
     "Assets/OSI Model Diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol and What are Protocol Stacks.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocol Stacks.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol.md",
-    "Additional Info/IEEE 802.1X.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis",
     "Additional Info/Security controls framework - AAA.md",
     "Assets/802.1X Diagram.png",
@@ -192,8 +182,6 @@
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Virtual Local Area Network (VLAN).md",
     "Pasted image 20240924222007.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Conceptual Design.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack/Networks under attack.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Know Thy Systems.md",
     "Assets/Star Topology.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design",
     "Assets/Logical Network Diagram Example.png",
@@ -201,7 +189,6 @@
     "Assets/DHCP 4-way Handshake.png",
     "Assets/Security Controls AAA.png",
     "Assets",
-    "Pasted image 20240917220928.png",
     "HTB Web Fuzzing",
     "Untitled.canvas",
     "Additional Info",

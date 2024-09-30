@@ -7,3 +7,4 @@ A solid understanding of the innerworkings of networks allows us to be more effe
 - [[ISO OSI Protocol Stack]]
 - [[How Protocol Stacks Communicate]]
 - [[OSI vs TCP IP|OSI vs TCP/IP]]
+- [[How TCP IP Packets Are Generated|How TCP/IP Packets Are Generated]]
