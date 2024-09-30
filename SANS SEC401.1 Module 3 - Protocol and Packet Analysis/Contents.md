@@ -8,3 +8,5 @@ A solid understanding of the innerworkings of networks allows us to be more effe
 - [[How Protocol Stacks Communicate]]
 - [[OSI vs TCP IP|OSI vs TCP/IP]]
 - [[How TCP IP Packets Are Generated|How TCP/IP Packets Are Generated]]
+- [[IP Basics]]
+- [[IPv4 vs IPv6]]

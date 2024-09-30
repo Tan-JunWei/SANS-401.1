@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md"
               }
             }
           }
@@ -146,12 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6decb94952744a3b",
+  "active": "2e841aa8c116eef5",
   "lastOpenFiles": [
-    "Assets/TCP IP headers diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol and What are Protocol Stacks.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IP Basics.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
+    "Assets/TCP IP headers diagram.png",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
     "Assets/TCP IP model headers diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
@@ -163,7 +166,6 @@
     "OSI vs TCP",
     "Assets/OSI 7 Layers stack-layer to stack-layer communication.png",
     "Assets/OSI Model Diagram.png",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol and What are Protocol Stacks.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocol Stacks.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis",
@@ -181,13 +183,11 @@
     "Additional Info/Human Errors.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Virtual Local Area Network (VLAN).md",
     "Pasted image 20240924222007.png",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture/Conceptual Design.md",
     "Assets/Star Topology.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design",
     "Assets/Logical Network Diagram Example.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture",
     "Assets/DHCP 4-way Handshake.png",
-    "Assets/Security Controls AAA.png",
     "Assets",
     "HTB Web Fuzzing",
     "Untitled.canvas",
