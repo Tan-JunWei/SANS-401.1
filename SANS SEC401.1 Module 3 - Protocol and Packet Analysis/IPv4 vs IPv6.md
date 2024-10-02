@@ -1,7 +1,7 @@
 
 IPv4 has some limitations, specifically in the number of unique addresses supported. While IPv4 accommodates **4.2 billion (2^32) unique 32-bit addresses**, the allocation of IP addresses on the internet was completed in the most efficient manner, leading to a **shortage of available IP addresses**.
 
-There have been methods used to mitigate this shortage (Network Address Translation (NAT) and [[Classless Inter-Domain Routing (CIDR)]]. However, 4.2 billion addresses would still not be enough even with the most considerate use of available space. 
+There have been methods used to mitigate this shortage ([[Network Address Translation (NAT)]] and [[Classless Inter-Domain Routing (CIDR)]]. However, 4.2 billion addresses would still not be enough even with the most considerate use of available space. 
 
 ##### IPv4 vs IPv6 - What's the difference?
 
