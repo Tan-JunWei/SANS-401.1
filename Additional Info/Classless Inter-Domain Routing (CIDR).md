@@ -30,3 +30,36 @@ Classless Inter-Domain Routing (CIDR) is a collection of IP standards designed t
 ### How does CIDR work?
 Classless Inter-Domain Routing (CIDR) allows network routers to route data packets to the respective device based on the indicated subnet. Instead of classifying the IP address based on classes, routers retrieve the network and host address as specified by the CIDR suffix.
 
+##### CIDR Notation
+CIDR uses a notation like this: `10.0.0.0/22`.
+
+**10.0.0.0/22** is the network address, and **22** is the prefix length, meaning the first 22 bits of the IP address are reserved for the network. 
+
+##### What does this mean in practice?
+IPv4 addresses are 32 bits long (4 octets). With 22 as the prefix length, 22 bits are used for the network, leaving 10 bits for the host portion.
+
+
+**Network portion**: First 22 bits of the address are fixed (**10.0.0.0** to **10.0.3.255**).
+
+**Host portion**: The remaining 10 bits can vary. With 10 bits left for the host portion, we can have 2^10 = 1024 total IP addresses in this block. 
+
+>[!tip] Reserved IP addresses
+>
+>However, remember that two IP addresses are reserved:
+>
+>- **One for the network address** (`10.0.0.0` in this case).
+>- **One for the broadcast address** (`10.0.3.255` in this case).
+>
+>So, the usable addresses for hosts are `1024 - 2 = 1022`.
+
+##### CIDR Blocks
+CIDR allows Internet Service Providers (ISPs) and organizations to allocate IP addresses more efficiently. Instead of giving out large Class A, B, or C blocks, they allocate only what’s needed. For example, an ISP might allocate a block of IP addresses using CIDR like this: `192.168.10.0/26`. This means the network can have 64 (2^6) addresses, just enough for a smaller subnet. 
+
+>[!info] TLDR: Why CIDR?
+>
+>CIDR's main objective is to bypass the restrictions of the old classful system, which divided IP addresses into rigid classes.
+>
+>Instead of forcing organisations to choose between predefined blocks, CIDR lets them create subnets of any size that match their needs.
+
+#### References
+-  _What is CIDR? - CIDR Blocks and Notation Explained - AWS_. (n.d.). Amazon Web Services, Inc. https://aws.amazon.com/what-is/cidr/

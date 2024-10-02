@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
+                "file": "Additional Info/Classless Inter-Domain Routing (CIDR).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e841aa8c116eef5",
+  "active": "fa34648eb0b529e0",
   "lastOpenFiles": [
+    "Additional Info/IPSec.md",
+    "Additional Info/IEEE 802.1X.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
     "Additional Info/Classless Inter-Domain Routing (CIDR).md",
     "Additional Info/More information about QoS in IPv6.md",
-    "Additional Info/IPSec.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IP Basics.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol and What are Protocol Stacks.md",
@@ -174,7 +176,6 @@
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
     "Assets/TCP IP model headers diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
-    "Additional Info/IEEE 802.1X.md",
     "Additional Info/OSI vs TCP IP - Practicality.md",
     "Assets/OSI vs TCP IP.png",
     "OSI vs TCP/IP.md",
