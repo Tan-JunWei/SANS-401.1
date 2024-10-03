@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv6 Features.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv6 Features.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv6 Features.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv6 Features.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md"
               }
             }
           }
@@ -173,11 +173,12 @@
   },
   "active": "1121f4e7217c901e",
   "lastOpenFiles": [
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv6 Features.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv6 Header.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 Header.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
     "Additional Info/CIA Triad.md",
     "Assets/IPv6 Header diagram.png",
     "Assets/IPv4 Header Diagram.png",
@@ -209,7 +210,6 @@
     "Additional Info/Security controls framework - AAA.md",
     "Assets/802.1X Diagram.png",
     "Additional Info/Threat Intelligence.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Network Security Feature - IEEE 802.1X.md",
     "Pasted image 20240924222007.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture",
