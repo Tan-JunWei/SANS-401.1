@@ -12,3 +12,4 @@ A solid understanding of the innerworkings of networks allows us to be more effe
 - [[IPv4 vs IPv6]]
 - [[IPv4 Header]]
 - [[IPv6 Header]]
+- [[IPv6 Features]]
