@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Additional Info/Network Address Translation (NAT).md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1121f4e7217c901e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Info/IPSec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0031df3384673c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Info/CIA Triad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad254c98f14fd13c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Info/More information about QoS in IPv6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Info/Network Address Translation (NAT).md",
+                "file": "Additional Info/IPSec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Info/Network Address Translation (NAT).md",
+                "file": "Additional Info/IPSec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Additional Info/Network Address Translation (NAT).md"
+                "file": "Additional Info/IPSec.md"
               }
             }
           }
@@ -146,21 +183,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6decb94952744a3b",
+  "active": "1121f4e7217c901e",
   "lastOpenFiles": [
-    "Assets/NAT DIagram.png",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
-    "Additional Info/Network Address Translation (NAT).md",
+    "Additional Info/CIA Triad.md",
     "Additional Info/IPSec.md",
+    "Additional Info/More information about QoS in IPv6.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
+    "Additional Info/Biometric security.md",
+    "Assets/NAT DIagram.png",
+    "Additional Info/Network Address Translation (NAT).md",
     "Additional Info/Classless Inter-Domain Routing (CIDR).md",
     "Additional Info/IEEE 802.1X.md",
-    "Additional Info/More information about QoS in IPv6.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IP Basics.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol and What are Protocol Stacks.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/OSI vs TCP IP.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
     "Assets/TCP IP headers diagram.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
     "Assets/TCP IP model headers diagram.png",
@@ -181,13 +220,11 @@
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Principle of Least Privilege.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Approaches to Network Design.md",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design/Physical and Logical Topologies.md",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Benefits of Network Architecture Understanding.md",
     "Pasted image 20240924222007.png",
     "Assets/Star Topology.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design",
     "Assets/Logical Network Diagram Example.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture",
-    "Assets/DHCP 4-way Handshake.png",
     "Assets",
     "HTB Web Fuzzing",
     "Untitled.canvas",
