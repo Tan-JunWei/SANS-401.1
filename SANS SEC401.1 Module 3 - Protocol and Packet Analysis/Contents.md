@@ -10,3 +10,4 @@ A solid understanding of the innerworkings of networks allows us to be more effe
 - [[How TCP IP Packets Are Generated|How TCP/IP Packets Are Generated]]
 - [[IP Basics]]
 - [[IPv4 vs IPv6]]
+- [[IPv4 Header]]
