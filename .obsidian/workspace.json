@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/TCP Uses.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Establishing a TCP connection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/TCP Uses.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Establishing a TCP connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/TCP Uses.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Establishing a TCP connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/TCP Uses.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Establishing a TCP connection.md"
               }
             }
           }
@@ -146,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e5d0ec95d189fd7",
+  "active": "6decb94952744a3b",
   "lastOpenFiles": [
+    "Assets/TCP connection diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Establishing a TCP connection.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/TCP Uses.md",
     "Additional Info/Flow Control (TCP).md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to TCP.md",
@@ -178,9 +180,7 @@
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
     "Assets/TCP IP model headers diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How Protocol Stacks Communicate.md",
-    "Additional Info/OSI vs TCP IP - Practicality.md",
     "Assets/OSI vs TCP IP.png",
-    "OSI vs TCP/IP.md",
     "OSI vs TCP",
     "Assets/OSI 7 Layers stack-layer to stack-layer communication.png",
     "Assets/OSI Model Diagram.png",
