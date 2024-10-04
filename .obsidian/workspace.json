@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e841aa8c116eef5",
+            "id": "f5e608f7a0150306",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "1121f4e7217c901e",
+            "id": "62daa29ee6d5199e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5e608f7a0150306",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ICMP Header.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ICMP Header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ICMP Header.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ICMP Header.md"
               }
             }
           }
@@ -171,14 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1121f4e7217c901e",
+  "active": "62daa29ee6d5199e",
   "lastOpenFiles": [
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 Header.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ICMP Header.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IP Basics.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
+    "Assets/ICMP Header Diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv6 Features.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv6 Header.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 Header.md",
     "Additional Info/CIA Triad.md",
     "Assets/IPv6 Header diagram.png",
     "Assets/IPv4 Header Diagram.png",
@@ -189,7 +180,6 @@
     "Additional Info/Network Address Translation (NAT).md",
     "Additional Info/Classless Inter-Domain Routing (CIDR).md",
     "Additional Info/IEEE 802.1X.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IP Basics.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol and What are Protocol Stacks.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
@@ -207,10 +197,7 @@
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocol Stacks.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis",
-    "Additional Info/Security controls framework - AAA.md",
     "Assets/802.1X Diagram.png",
-    "Additional Info/Threat Intelligence.md",
-    "Pasted image 20240924222007.png",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture",
     "Assets",
