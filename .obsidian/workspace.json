@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5d3b1594a647b23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to TCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7eb113a3ff66828e",
             "type": "leaf",
             "state": {
@@ -37,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Closing a TCP Session.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to UDP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Closing a TCP Session.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Closing a TCP Session.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Closing a TCP Session.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to UDP.md"
               }
             }
           }
@@ -176,12 +188,13 @@
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Establishing a TCP connection.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to TCP.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/TCP Uses.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to UDP.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Closing a TCP Session.md",
     "Assets/TCP Graceful Closure Diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/TCP Header.md",
     "Assets/TCP Header Diagram.png",
     "Assets/TCP connection diagram.png",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/TCP Uses.md",
     "Additional Info/Flow Control (TCP).md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ICMP Header.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 Header.md",
