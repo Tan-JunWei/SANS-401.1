@@ -8,55 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e5d0ec95d189fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d3b1594a647b23d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to TCP.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/TCP/Introduction to TCP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7eb113a3ff66828e",
+            "id": "b79a146ac92fec17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Establishing a TCP connection.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/IP/IPv4 Header.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4059ef0f159e5c6",
+            "id": "396d56c5cb131358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/UDP Header.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/What is a Sniffer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a43d1cec2396a7c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/UDP Header.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/What is a Sniffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/UDP Header.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/What is a Sniffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/UDP Header.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/What is a Sniffer.md"
               }
             }
           }
@@ -183,53 +183,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4059ef0f159e5c6",
+  "active": "396d56c5cb131358",
   "lastOpenFiles": [
-    "Assets/UDP Header Diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/UDP Header.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Traditional UDP Uses.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to UDP.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Establishing a TCP connection.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to TCP.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/TCP Uses.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Closing a TCP Session.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/What is a Sniffer.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)",
+    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/UDP/Introduction to UDP.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/UDP",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/TCP",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/TCP/Establishing a TCP connection.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/TCP/Closing a TCP Session.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/ICMP/Introduction to ICMP.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/ICMP",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/IP/IPv4 Header.md",
+    "Protocols.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/IP",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/IP/IP Basics.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/TCP/Introduction to TCP.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocol Stacks/How TCP IP Packets Are Generated.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocol Stacks/What is a Network Protocol and What are Protocol Stacks.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocol Stacks",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/UDP/UDP Header.md",
+    "Assets/UDP Header Diagram.png",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/UDP/Traditional UDP Uses.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/TCP/TCP Uses.md",
     "Assets/TCP Graceful Closure Diagram.png",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/TCP Header.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/TCP/TCP Header.md",
     "Assets/TCP Header Diagram.png",
     "Assets/TCP connection diagram.png",
     "Additional Info/Flow Control (TCP).md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ICMP Header.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 Header.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IP Basics.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to ICMP.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv4 vs IPv6.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/ICMP/ICMP Header.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/IP/IPv4 vs IPv6.md",
     "Assets/ICMP Header Diagram.png",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv6 Features.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/IPv6 Header.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/IP/IPv6 Features.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Protocols/IP/IPv6 Header.md",
     "Additional Info/CIA Triad.md",
     "Assets/IPv6 Header diagram.png",
     "Assets/IPv4 Header Diagram.png",
     "Additional Info/IPSec.md",
     "Additional Info/More information about QoS in IPv6.md",
-    "Additional Info/Biometric security.md",
     "Assets/NAT DIagram.png",
-    "Additional Info/Network Address Translation (NAT).md",
-    "Additional Info/Classless Inter-Domain Routing (CIDR).md",
-    "Additional Info/IEEE 802.1X.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
     "Assets/TCP IP headers diagram.png",
     "Assets/TCP IP model headers diagram.png",
-    "Assets/OSI vs TCP IP.png",
     "OSI vs TCP",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Network Design",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Understanding Network Architecture",
-    "Assets",
-    "HTB Web Fuzzing",
-    "Untitled.canvas",
-    "Additional Info",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Networks Under Attack",
-    "SANS SEC401.1 Module 2 - Defensible Network Infrastructure"
+    "Untitled.canvas"
   ]
 }
