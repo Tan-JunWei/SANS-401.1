@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Traditional UDP Uses.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/UDP Header.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Traditional UDP Uses.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/UDP Header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Traditional UDP Uses.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/UDP Header.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Traditional UDP Uses.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/UDP Header.md"
               }
             }
           }
@@ -185,7 +185,9 @@
   },
   "active": "c4059ef0f159e5c6",
   "lastOpenFiles": [
+    "Assets/UDP Header Diagram.png",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/UDP Header.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Traditional UDP Uses.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Introduction to UDP.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Establishing a TCP connection.md",
@@ -216,8 +218,6 @@
     "Additional Info/Classless Inter-Domain Routing (CIDR).md",
     "Additional Info/IEEE 802.1X.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/ISO OSI Protocol Stack.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/What is a Network Protocol and What are Protocol Stacks.md",
-    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/How TCP IP Packets Are Generated.md",
     "Assets/TCP IP headers diagram.png",
     "Assets/TCP IP model headers diagram.png",
     "Assets/OSI vs TCP IP.png",
