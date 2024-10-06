@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/What is a Sniffer.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/Examples of Sniffers.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/What is a Sniffer.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/Examples of Sniffers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/What is a Sniffer.md",
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/Examples of Sniffers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/What is a Sniffer.md"
+                "file": "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/Examples of Sniffers.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   "active": "396d56c5cb131358",
   "lastOpenFiles": [
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Contents.md",
+    "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/Examples of Sniffers.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)/What is a Sniffer.md",
     "SANS SEC401.1 Module 3 - Protocol and Packet Analysis/Network Traffic Acquisition (Sniffing)",
     "SANS SEC401.1 Module 2 - Defensible Network Infrastructure/Contents.md",
